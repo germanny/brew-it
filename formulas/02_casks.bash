@@ -29,6 +29,9 @@ cask install google-chrome
 #http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
 cask install superduper
 
+#http://orbicule.com/undercover/mac/
+cask install undercover
+
 
 #
 # Development
@@ -108,8 +111,11 @@ cask install virtualbox-2-4
 # Utilities
 #
 
+#http://www.appzapper.com/
+cask install appzapper
+
 #http://www.macbartender.com/
-cask install bartender
+#cask install bartender
 
 #http://macpaw.com/cleanmymac
 cask install cleanmymac
@@ -121,6 +127,7 @@ cask install cleanmymac
 cask install cloudapp
 
 #http://www.coconut-flavour.com/
+#macbook
 cask install coconutbattery
 
 #http://mattpatenaude.com/
@@ -139,10 +146,14 @@ cask install diskmaker-x
 cask install f-lux
 
 #http://gfx.io/
+#macbook
 cask install gfxcardstatus
 
 #http://growl.info/downloads
-#cask install growlnotify
+cask install growlnotify
+
+#http://www.techsmith.com/jing.html
+#cask install jing
 
 #http://www.knocktounlock.com/
 cask install knock
@@ -209,13 +220,16 @@ cask install airmail-beta
 cask install airserver
 
 #http://calibre-ebook.com/
-cask install calibre
+#cask install calibre
 
 #http://www.mediaatelier.com/CheatSheet/
 cask install cheatsheet
 
 #http://kapeli.com/dash
 cask install dash
+
+#http://help.getdoxie.com/originaldoxie/
+cask install doxie
 
 #http://limechat.net/mac/
 #cask install limechat
@@ -241,11 +255,14 @@ cask install libreoffice
 #http://mouapp.com/
 cask install mou
 
+#http://thelittleappfactory.com/ripit/
+cask install ripit
+
 #http://www.rdio.com/
-cask install rdio
+#cask install rdio
 
 #http://www.bohemiancoding.com/sketch/
-cask install sketch
+#cask install sketch
 
 #http://www.skype.com/en/
 cask install skype
@@ -257,5 +274,5 @@ cask install skype
 #cask install spotify
 
 #http://www.utorrent.com/
-cask install utorrent
+#cask install utorrent
 
