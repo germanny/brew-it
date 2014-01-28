@@ -179,6 +179,9 @@ cask install spectacle
 #http://totalfinder.binaryage.com/
 #cask install totalfinder
 
+#http://smilesoftware.com/TextExpander/index.html
+cask install textexpander
+
 #http://totalterminal.binaryage.com/
 cask install totalterminal
 
@@ -273,6 +276,12 @@ cask install skype
 #https://www.spotify.com/us/
 #cask install spotify
 
+#http://www.teamviewer.com/en/index.aspx
+cask install teamviewer
+
 #http://www.utorrent.com/
 #cask install utorrent
+
+#http://www.videolan.org/vlc/index.html
+cask install vlc
 
