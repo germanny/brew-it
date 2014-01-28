@@ -117,6 +117,9 @@ cask install appzapper
 #http://www.macbartender.com/
 #cask install bartender
 
+#http://lightheadsw.com/caffeine/
+cask install caffeine
+
 #http://macpaw.com/cleanmymac
 cask install cleanmymac
 
@@ -234,6 +237,9 @@ cask install dash
 #http://help.getdoxie.com/originaldoxie/
 cask install doxie
 
+#http://evernote.com/
+cask install evernote
+
 #http://limechat.net/mac/
 #cask install limechat
 
@@ -266,6 +272,9 @@ cask install ripit
 
 #http://www.bohemiancoding.com/sketch/
 #cask install sketch
+
+#http://evernote.com/skitch/
+cask install skitch
 
 #http://www.skype.com/en/
 cask install skype
