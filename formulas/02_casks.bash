@@ -26,6 +26,11 @@ cask install google-chrome
 #https://lastpass.com/
 #cask install lastpass-universal
 
+#http://www.obdev.at/products/littlesnitch/index.html
+#https://www.macupdate.com/app/mac/10426/little-snitch
+#https://deals.macupdate.com/deal/15458/little-snitch
+cask install little-snitch
+
 #http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
 cask install superduper
 
