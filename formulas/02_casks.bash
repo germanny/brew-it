@@ -163,6 +163,9 @@ cask install growlnotify
 #http://www.techsmith.com/jing.html
 #cask install jing
 
+#http://jumpcut.sourceforge.net/
+cask install jumpcut
+
 #http://www.knocktounlock.com/
 cask install knock
 
