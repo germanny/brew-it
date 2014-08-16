@@ -132,7 +132,7 @@ cask install cleanmymac
 #cask install cloudup
 
 #http://getcloudapp.com/
-cask install cloudapp
+#cask install cloudapp
 
 #http://www.coconut-flavour.com/
 #macbook
