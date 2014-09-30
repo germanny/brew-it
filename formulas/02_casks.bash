@@ -29,7 +29,7 @@ cask install google-chrome
 #http://www.obdev.at/products/littlesnitch/index.html
 #https://www.macupdate.com/app/mac/10426/little-snitch
 #https://deals.macupdate.com/deal/15458/little-snitch
-cask install little-snitch
+#cask install little-snitch
 
 #http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
 cask install superduper
@@ -97,7 +97,9 @@ cask install sequel-pro
 #cask install sourcetree
 
 #http://www.sublimetext.com/3
-cask install sublime-text3
+#cask install sublime-text3
+#for Sublime Text 2
+cask install sublime-text
 
 #http://panic.com/transmit/
 cask install transmit
@@ -109,7 +111,7 @@ cask install tower
 cask install vagrant
 
 #https://www.virtualbox.org/
-cask install virtualbox-4-2
+cask install virtualbox
 
 
 #
@@ -176,7 +178,7 @@ cask install knock
 cask install quickcast
 
 #http://screenhero.com/
-cask install screenhero
+#cask install screenhero
 
 #http://www.irradiatedsoftware.com/sizeup/
 #cask install sizeup
