@@ -97,9 +97,7 @@ cask install sequel-pro
 #cask install sourcetree
 
 #http://www.sublimetext.com/3
-#cask install sublime-text3
-#for Sublime Text 2
-cask install sublime-text
+cask install sublime-text3
 
 #http://panic.com/transmit/
 cask install transmit
