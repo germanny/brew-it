@@ -187,6 +187,9 @@ cask install quickcast
 #http://spectacleapp.com/
 cask install spectacle
 
+#http://unarchiver.c3.cx/
+cask install the-unarchiver
+
 #http://totalfinder.binaryage.com/
 #cask install totalfinder
 
