@@ -11,14 +11,11 @@
 cask install alfred
 cask alfred link
 
-#http://asepsis.binaryage.com
-cask install asepsis
-
 #https://www.dropbox.com/
 cask install dropbox
 
 #https://agilebits.com/onepassword
-cask install onepassword
+cask install 1password
 
 #https://www.google.com/intl/en/chrome/browser/
 cask install google-chrome
@@ -32,7 +29,7 @@ cask install google-chrome
 #cask install little-snitch
 
 #http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
-cask install superduper
+#cask install superduper
 
 #http://orbicule.com/undercover/mac/
 cask install undercover
@@ -96,8 +93,8 @@ cask install sequel-pro
 #http://www.sourcetreeapp.com/
 #cask install sourcetree
 
-#http://www.sublimetext.com/3
-cask install sublime-text3
+#http://www.sublimetext.com/2
+cask install sublime-text2
 
 #http://panic.com/transmit/
 cask install transmit
@@ -116,11 +113,8 @@ cask install virtualbox
 # Utilities
 #
 
-#http://www.appzapper.com/
-cask install appzapper
-
 #http://www.macbartender.com/
-#cask install bartender
+cask install bartender
 
 #http://lightheadsw.com/caffeine/
 cask install caffeine
@@ -136,38 +130,38 @@ cask install cleanmymac
 
 #http://www.coconut-flavour.com/
 #macbook
-cask install coconutbattery
+#cask install coconutbattery
 
 #http://mattpatenaude.com/
-cask install colors
+#cask install colors
 
 #http://www.daisydiskapp.com/
-cask install daisydisk
+#cask install daisydisk
 
 #http://mizage.com/divvy/
 #cask install divvy
 
 #http://liondiskmaker.com/
-cask install diskmaker-x
+#cask install diskmaker-x
 
 #http://justgetflux.com/
-cask install flux
+#cask install flux
 
 #http://gfx.io/
 #macbook
-cask install gfxcardstatus
+#cask install gfxcardstatus
 
 #http://growl.info/downloads
-cask install growlnotify
+#cask install growlnotify
 
 #http://www.techsmith.com/jing.html
 #cask install jing
 
 #http://jumpcut.sourceforge.net/
-cask install jumpcut
+#cask install jumpcut
 
 #http://www.knocktounlock.com/
-cask install knock
+#cask install knock
 
 #http://marked2app.com/
 #cask install marked2
@@ -185,10 +179,10 @@ cask install quickcast
 #cask install smcfancontrol
 
 #http://spectacleapp.com/
-cask install spectacle
+#cask install spectacle
 
 #http://unarchiver.c3.cx/
-cask install the-unarchiver
+#cask install the-unarchiver
 
 #http://totalfinder.binaryage.com/
 #cask install totalfinder
@@ -203,7 +197,7 @@ cask install totalterminal
 cask install xscope
 
 #http://www.trankynam.com/xtrafinder/
-cask install xtrafinder
+#cask install xtrafinder
 
 
 #
@@ -228,16 +222,16 @@ cask install opera
 #
 
 #https://adium.im/
-cask install adium
+#cask install adium
 
 #http://www.airserver.com/
-cask install airserver
+#cask install airserver
 
 #http://calibre-ebook.com/
 #cask install calibre
 
 #http://www.mediaatelier.com/CheatSheet/
-cask install cheatsheet
+#cask install cheatsheet
 
 #http://kapeli.com/dash
 cask install dash
@@ -264,16 +258,16 @@ cask install handbrake
 #cask install inkscape
 
 #http://www.libreoffice.org/
-cask install libreoffice
+#cask install libreoffice
 
 #http://mailplaneapp.com/
 #cask install mailplane
 
 #http://mouapp.com/
-cask install mou
+#cask install mou
 
 #http://thelittleappfactory.com/ripit/
-cask install ripit
+#cask install ripit
 
 #http://www.rdio.com/
 #cask install rdio
@@ -285,7 +279,7 @@ cask install ripit
 cask install skitch
 
 #http://www.skype.com/en/
-cask install skype
+#cask install skype
 
 #http://sparrowmailapp.com/mac.php
 #cask install sparrow
