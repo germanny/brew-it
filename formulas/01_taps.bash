@@ -9,8 +9,8 @@ tap homebrew/dupes
 tap homebrew/versions
 
 # homebrew-cask
-tap phinze/cask
-install brew-cask
+#tap phinze/cask
+#install brew-cask
 
 # caskroom versions
 tap caskroom/versions
