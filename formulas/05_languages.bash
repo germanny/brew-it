@@ -3,44 +3,43 @@
 #
 
 # clojure
-#install leiningen
+#brew 'leiningen'
 
 # erlang
-#install erlang
-#install elixir
-#install rebar
+#brew 'erlang'
+#brew 'elixir'
+#brew 'rebar'
 
 # go
-#install go
+#brew 'go'
 
 # groovy
-#install groovy
+#brew 'groovy'
 
 # haskell
-#install haskell-platform
+#brew 'haskell-platform'
 
 # lua
-#install lua
+#brew 'lua'
 
 # mono (.net)
 # https://gist.github.com/shtirlic/4696903
 
 # node
-# install node
+brew 'nvm'
 
 # ocaml
-#install ocaml
+#brew 'ocaml'
 
 # python
-install python
+#brew 'python'
 
 # ruby
-#install chruby
+brew 'rbenv'
 
-#install ruby-install
 
 # rust
-#install rust
+#brew 'rust'
 
 # scala
-#install scala
+#brew 'scala'
