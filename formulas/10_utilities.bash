@@ -2,9 +2,9 @@
 # utilities
 #
 
-#brew 'ansible'
+brew 'ansible'
 #brew 'ag'
-#brew 'cdrtools'
+brew 'cdrtools'
 #brew 'ctags'
 brew 'imagemagick'
 brew 'jpeg'
@@ -13,9 +13,13 @@ brew 'jpeg'
 #brew 'reattach-to-user-namespace'
 brew 'terminal-notifier'
 #brew 'tmux'
-#brew 'tree'
+brew 'tree'
 #brew 'watch'
-#brew 'wget'
+brew 'wget'
+
+# https://yarnpkg.com/en/docs/install#mac-tab
+# brew install yarn --ignore-dependencies
+brew 'yarn', args: ["ignore-dependencies"]
 
 # irc / instant message
 #brew 'bitlbee'

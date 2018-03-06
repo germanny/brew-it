@@ -2,7 +2,7 @@
 # networking
 #
 
-#brew 'fping'
+brew 'fping'
 #brew 'netcat'
 #brew 'ngrep'
 #brew 'nmap'

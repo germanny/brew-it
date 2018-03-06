@@ -2,5 +2,5 @@
 # editor / pager
 #
 
-#brew 'vim'
+brew 'vim'
 #brew 'vimpager'

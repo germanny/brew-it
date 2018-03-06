@@ -4,4 +4,4 @@
 
 #brew 'redis'
 #brew 'riak'
-#brew 'sqlite3'
+brew 'sqlite3'

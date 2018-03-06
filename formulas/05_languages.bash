@@ -37,7 +37,6 @@ brew 'nvm'
 # ruby
 brew 'rbenv'
 
-
 # rust
 #brew 'rust'
 
